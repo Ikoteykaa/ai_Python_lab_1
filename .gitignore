@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (віртуальні оточення)
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets (конфіденційні дані та ключі)
+.env
+.env.local
+*.env
+
+# IDE & Editors (налаштування PyCharm, VS Code тощо)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Packaging & Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.tox/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
