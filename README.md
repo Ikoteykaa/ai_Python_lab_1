@@ -29,5 +29,4 @@
 ├── ai_task1_JetBrains.py       # Згенерований JetBrains AI розв'язок Задачі 1
 ├── ai_task2_Claude.py          # Згенерований Claude розв'язок Задачі 2
 ├── ai_task2_JetBrains.py       # Згенерований JetBrains AI розв'язок Задачі 2
-├── main.py                     # Головний файл запуску
 └── README.md                   # Опис репозиторію
